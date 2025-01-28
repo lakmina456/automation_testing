@@ -1,4 +1,4 @@
-# README: Automating Login Functionality Validation
+# Automating Login Functionality Validation
 
 ## Overview
 This project is an automation script designed to validate the login functionality of a sample website. Using Selenium WebDriver, the script automates the process of navigating to the website, entering login credentials, submitting the login form, and verifying the login status.
